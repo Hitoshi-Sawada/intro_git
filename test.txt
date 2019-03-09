@@ -5,3 +5,4 @@ Gitの練習をしています
 .git commit
 .remove file
 .git status:
+.git diff:
