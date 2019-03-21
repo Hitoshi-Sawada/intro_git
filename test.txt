@@ -1,8 +1,0 @@
-This is a git test file
-Gitの練習をしています
-基本的なワークフローを学んでいます
-.git add
-.git commit
-.remove file
-.git status:
-.git diff:
